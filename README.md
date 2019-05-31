@@ -24,12 +24,12 @@ https://coderwall.com/p/38wtgw/jieba
 https://drive.google.com/file/d/1Lv9tZfyrNLpviGasBwNllJ1W0eIjC72C/view?usp=sharing
 
 ##2019/5/31
-學習google play商店爬蟲，蒐集資料
-現成資源↓
-https://medium.com/@b123105/3-%E6%AD%A5%E9%A9%9F%E7%8D%B2%E5%8F%96google-play-%E4%B8%ADapp%E6%95%B8%E6%93%9A-python-%E7%88%AC%E8%9F%B2-7bc8533cd6e9
-改動:
-1.瀏覽器driver路徑
-2.**多爬了每則評論的like數**
-3.將爬蟲結果存入一個list(資料型態為str)
-4.寫入csv檔(python3開啟時用w模式即可，更改編碼成utf_8_sig之後可以讀入中文，加上newline=""之後可以解決每筆資料間空行問題)
-目前只能寫入200筆資料
+學習google play商店爬蟲，蒐集資料  
+現成資源↓  
+https://medium.com/@b123105/3-%E6%AD%A5%E9%A9%9F%E7%8D%B2%E5%8F%96google-play-%E4%B8%ADapp%E6%95%B8%E6%93%9A-python-%E7%88%AC%E8%9F%B2-7bc8533cd6e9  
+改動:  
+1.瀏覽器driver路徑  
+2.**多爬了每則評論的like數**  
+3.將爬蟲結果存入一個list(資料型態為str)  
+4.寫入csv檔(python3開啟時用w模式即可，更改編碼成utf_8_sig之後可以讀入中文，加上newline=""之後可以解決每筆資料間空行問題)  
+目前只能寫入200筆資料  
